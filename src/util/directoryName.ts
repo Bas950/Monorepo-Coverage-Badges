@@ -1,4 +1,3 @@
-import { dirname, resolve } from "node:path";
-import { fileURLToPath } from "node:url";
+import { resolve } from "node:path";
 
-export const directoryName = dirname(resolve(fileURLToPath(import.meta.url), "../../"));
+export const directoryName = resolve(process.cwd());
