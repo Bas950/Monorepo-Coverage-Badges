@@ -1,3 +1,5 @@
+# THIS PACKAGE HAS BEEN MOVED TO [Bas950/Packages](https://github.com/Bas950/packages/tree/main/packages/Monorepo-Coverage-Badges)
+
 <h1 align="center">
 	Monorepo-Coverage-Badges
 </h1>
